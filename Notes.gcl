@@ -1,0 +1,40 @@
+sorulara baslamadan once
+
+:| yorum satiri
+
+:| 
+coklu satir yorum
+|:
+
+gvr A: String = 
+	:| const string type -> ConstString("string") -> have index but you can't change
+	:| String Type -> MemoryString("MAlloc String") -> have index and you can change with this UpdateMemoryString("new string")
+
+gvr B: Int = 10;
+
+gvr C: Float = 10.312312;
+
+
+
+:| gfn = gnu func
+
+gvr degisken = 10;
+gfn fonksiyon() {
+
+}
+
+
+gfn Main() -> Int {
+
+
+
+
+
+
+	return 0;
+}
+
+
+for (int = 0; i < listcount; i++) {
+ bunu oylesine yaptim sen bana ornek verirsin bunu gibi konsept
+}

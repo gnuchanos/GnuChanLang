@@ -1,0 +1,11 @@
+#!/bin/bash
+
+
+
+# My GOD level LANG (it's joke)
+g++ *.cpp -std=c++17 -O2 -Wall  -I/usr/include/python3.13  -I/usr/include/pybind11 -lpython3.13 -o gcLangDir/gcLang
+
+
+# .so python support
+#g++ -O3 -Wall -shared -std=c++17 -fPIC  -I/usr/include/python3.13  -I/usr/include/pybind11 pyBinding.cpp  -o gcLangPy.cpython-313-x86_64-linux-gnu.so -lpython3.13
+#mv gcLangPy.cpython-313-x86_64-linux-gnu.so gcLang/gcLangPy
